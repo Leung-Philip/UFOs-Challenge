@@ -1,0 +1,17 @@
+/* set body font color to light color */
+body {
+
+    color: #f7f7f7
+}
+
+/* add background image to jumbotron */
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+/* set filter button to whole length of form box */
+#filter-btn {
+    width: 100%;
+  }
